@@ -21,6 +21,7 @@ Table of contents:
 * [Other](#other)
 
 ## Seed Projects
+* [flatlogic/angular-dashboard-seed](https://github.com/flatlogic/angular-dashboard-seed) - Angular dashboard sample application with nodejs REST backend integration
 * [ngbp/ngbp](https://github.com/ngbp/ngbp) - A sophisticated build management system for web apps
 * [vesparny/angular-kickstart](https://github.com/vesparny/angular-kickstart) - Speed up your AngularJS development and testing with a complete and scalable build system that scaffolds the project for you.
 * [okigan/angular-sensible-seed](https://github.com/okigan/angular-sensible-seed)  - Opinionated angular starter project with per feature directory structure, static content, gulp build system, integrated logo/search/ui-router/ui-bootstrap/less.
